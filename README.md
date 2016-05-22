@@ -1,1 +1,1 @@
-# coursera-ml
+# Machine learning 
